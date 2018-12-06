@@ -19,5 +19,18 @@ int i=sc.nextInt();
 
  */
 
+import java.util.Scanner;
+
 class TaskB1 {
+
+    public static void main(String[] agrs){
+        Scanner sc = new Scanner(System.in);
+        int first, result;
+        System.out.print("Enter first num: ");
+        first = sc.nextInt();
+        result = first * first;
+        System.out.println(+result);
+
+    }
+
 }
