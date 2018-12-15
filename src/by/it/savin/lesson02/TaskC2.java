@@ -26,7 +26,7 @@ class TaskC2 {
         int c = a + b;
         System.out.print("DEK:"+a+"+"+b+"="+c);
         //
-        Integer.toBinaryString()
+        Integer.toBinaryString();
 
 
 

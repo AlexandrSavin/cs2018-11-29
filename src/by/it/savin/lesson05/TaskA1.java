@@ -24,7 +24,18 @@ package by.it.savin.lesson05;
 */
 
 
+import java.util.Scanner;
+
 public class TaskA1 {
-    
+
+    public static void main (String[] arge) {
+        int[] array=new int[10];
+        Scanner sc=new Scanner(System.in);
+
+        for
+    }
+
+
+
 
 }

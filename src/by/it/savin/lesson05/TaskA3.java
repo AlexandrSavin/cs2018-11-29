@@ -13,6 +13,31 @@ package by.it.savin.lesson05;
 0 9
 */
 
+import java.util.Scanner;
+
 public class TaskA3 {
+
+
+    public static void main (String[] arge) {
+        Scanner sc=new Scanner (System.in);
+        int[] array=new int[10];
+        for (int i = array.length - 1; >= 0; i--){
+            switch (array[i] = sc.nextInt()) {
+            }
+
+        }
+
+        int min=array[0];
+        int max=array[0];
+        for (int i = 1;i < array.length; i++) {
+            if (array[i]<min)
+                min=array[i];
+            if (array[i]>max)
+                max=array[i];
+        }
+        System.out.println(min+" "+max);
+    }
+
+
 
 }
