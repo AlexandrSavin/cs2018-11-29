@@ -32,7 +32,7 @@ public class TaskA1 {
         int[] array=new int[10];
         Scanner sc=new Scanner(System.in);
 
-        for
+
     }
 
 

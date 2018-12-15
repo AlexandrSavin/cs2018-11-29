@@ -21,7 +21,7 @@ public class TaskA3 {
     public static void main (String[] arge) {
         Scanner sc=new Scanner (System.in);
         int[] array=new int[10];
-        for (int i = array.length - 1; >= 0; i--){
+        for (int i = array.length - 1; i >= 0; i--){
             switch (array[i] = sc.nextInt()) {
             }
 
